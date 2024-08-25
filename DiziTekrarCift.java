@@ -1,3 +1,5 @@
+//Dizide tekrar eden çift sayıları bulan program.
+
 public class DiziTekrarCift {
     static boolean isSame(int[] arr, int value) {
         for (int i : arr) {
